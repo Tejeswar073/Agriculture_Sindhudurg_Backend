@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+source/__pycache__/
+
+*.py[cod]
+*.pyo
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and other output
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
